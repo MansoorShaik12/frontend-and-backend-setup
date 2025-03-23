@@ -1,4 +1,6 @@
-create 'server' folder
+create 'todo-app' for example
+navigate to 'cd todo-app'
+"mkdir server" ------> create 'server' folder
 navigate to 'cd server'
 'npm init -y' ----> it creates package.json
 install required dependencies 'npm install express mongoose cors dotenv'
